@@ -1,0 +1,5 @@
+# gitignore todos los jpg, png y carpeta png
+*.jpg
+*.png
+*.svg/
+
